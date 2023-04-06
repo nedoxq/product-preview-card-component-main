@@ -140,7 +140,8 @@ body {
 
     .info-container {
         max-width: 50%;
-        padding: 2rem;
+        padding-top: 2rem;
+        padding-inline: 2rem;
     }
 
     .main-container #photo-desktop {
